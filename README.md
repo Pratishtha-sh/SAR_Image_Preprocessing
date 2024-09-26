@@ -1,5 +1,5 @@
 SAR Image Preprocessing and Autoencoder Model
-Overview
+Overview:
 This project implements a preprocessing pipeline for Synthetic Aperture Radar (SAR) images, followed by training an autoencoder model for noise reduction. 
 The goal is to enhance the quality of SAR images by leveraging deep learning techniques. The project utilizes OpenCV for image processing and Keras for building 
 and training the autoencoder.
